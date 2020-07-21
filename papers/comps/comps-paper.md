@@ -3,7 +3,7 @@ title:  |
   | Trophic-METE
   | A neutral theory of food-web structure
 author: |
-  | Francis Banville, PhD student in biology
+  | Francis Banville, PhD student in computational biology
   |
   | Comprehensive exam
 date: November 2020
