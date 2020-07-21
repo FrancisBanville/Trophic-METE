@@ -1,2 +1,5 @@
 # ignore all pdfs
 *.pdf
+
+# ignore comprehensive exam paper
+papers/comps/
