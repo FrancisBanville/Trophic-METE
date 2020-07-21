@@ -1,0 +1,4 @@
+pandoc-citeproc
+pandoc-crossref
+
+GNU Make 4.3
